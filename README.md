@@ -1,2 +1,1 @@
-# Idk_potato
-Irodalom cuccli vagy mittomén
+This is useless lmao
