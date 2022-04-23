@@ -5,7 +5,8 @@
   url(kepek/og.jpg);
   height: 50%;
   width: 100%;
-  filter:opacity(0.9)
+  filter:opacity(0.9);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5), 0 12px 40px 0 rgba(0, 0, 0, 0.5);
 }
 
 .topnav a {
@@ -28,6 +29,7 @@
   color: white;
   font-family: odalisque;
   text-align: center;
+  text-shadow: 5px 5px black;
 }
 
 .topnav .uwu{
@@ -42,6 +44,13 @@
 }
 
 .topnav a.active {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.topnav .uwu_active{
+  padding-top: 20px;
+  height: 110px;
   text-decoration: underline;
   font-weight: bold;
 }
