@@ -9,19 +9,30 @@ body {
     margin: 0%;
 }
 
+.keek {
+    margin-left: 7%;
+    font-size: 170%;
+    margin-top: 0%;
+    margin-right: 2%;
+}
+
+
+li {
+    margin-left: 7%;
+    font-size: 225%;
+    font-family: mediaeval;
+}
+
+.meh{
+    margin-bottom: 6%;
+}
+
 h1 {
     margin-left: 7%;
     font-family: victorian;
-    font-size: 250%;
-    margin-right: 1%;
+    font-size: 350%;
+    margin-bottom: 0%;
 }
-
-h2 {
-    margin-left: 7%;
-    font-family: chapbook;
-    font-size: 250%;
-}
-
 
 @font-face {
     font-family: freakshow;

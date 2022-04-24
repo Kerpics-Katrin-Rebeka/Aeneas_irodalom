@@ -85,7 +85,7 @@ td {
     font-family: antique;
     src: url(fonts/Antique\ Book\ Cover.otf);
 }
-  @font-face {
+@font-face {
     font-family: odalisque;
     src: url(fonts/OdalisqueNF.otf);
 }
