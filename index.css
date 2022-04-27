@@ -8,3 +8,55 @@ body {
     width: 100%;
     margin: 0%;
 }
+
+.Pika {
+    font-size: 220%;
+    padding-left: 3%;
+}
+
+h1 {
+    font-size: 350%;
+    padding-left: 3%;
+}
+
+div.polaroid {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    float: right;
+    margin-right: 3%;
+    background-color: white;
+}
+  
+div.container {
+    padding: 10px;
+}
+
+@font-face {
+    font-family: freakshow;
+    src: url(fonts/Freakshow.otf);
+}
+@font-face {
+    font-family: antique;
+    src: url(fonts/Antique\ Book\ Cover.otf);
+}
+@font-face {
+    font-family: odalisque;
+    src: url(fonts/OdalisqueNF.otf);
+}
+@font-face {
+    font-family: chapbook;
+    src: url(fonts/chapbook.regular.otf);
+}
+@font-face {
+    font-family: requiem;
+    src: url(fonts/requiem.regular.ttf);
+}
+@font-face {
+    font-family: mediaeval;
+    src: url(fonts/pfeffer-mediaeval.regular.otf);
+}
+@font-face {
+    font-family: victorian;
+    src: url(fonts/great-victorian.standard.otf);
+}

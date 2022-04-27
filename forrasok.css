@@ -8,3 +8,45 @@ body {
     width: 100%;
     margin: 0%;
 }
+
+li {
+    font-size: 250%;
+    margin-left: 4%;
+    padding-left: 1%;
+}
+
+h1 {
+    font-size: 400%;
+    margin-left: 5%;
+    font-family: medieveal;
+    margin-bottom: 10px;
+}
+
+@font-face {
+    font-family: freakshow;
+    src: url(fonts/Freakshow.otf);
+}
+@font-face {
+    font-family: antique;
+    src: url(fonts/Antique\ Book\ Cover.otf);
+}
+@font-face {
+    font-family: odalisque;
+    src: url(fonts/OdalisqueNF.otf);
+}
+@font-face {
+    font-family: chapbook;
+    src: url(fonts/chapbook.regular.otf);
+}
+@font-face {
+    font-family: requiem;
+    src: url(fonts/requiem.regular.ttf);
+}
+@font-face {
+    font-family: mediaeval;
+    src: url(fonts/pfeffer-mediaeval.regular.otf);
+}
+@font-face {
+    font-family: victorian;
+    src: url(fonts/great-victorian.standard.otf);
+}
